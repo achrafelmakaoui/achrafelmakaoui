@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi! My name is Achraf Elmakaoui 😄
+========================================================================================================================================
 
-<!--
-**achrafelmakaoui/achrafelmakaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍  I am a Web Full-Stack Developer based in Laayoune, Morocco.
+<br/>
 
-Here are some ideas to get you started:
+### Frontend Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,redux,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,vite)](https://skillicons.dev)
+<br/>
+
+### Backend Skills
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=express,mongodb)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+<br/>
+
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/achraf-el-makaoui-851969242/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
