@@ -17,7 +17,7 @@ Hi! My name is Achraf Elmakaoui 😄
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/achraf-el-makaoui-851969242/">
+  <a href="https://www.linkedin.com/in/achraf-el-makaoui/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
